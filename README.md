@@ -1,7 +1,8 @@
 # Ignite-React-Native-2021
 
-- [My Skills]()
-- 
+<li><a href="https://github.com/douglasdl/MySkills">My Skills</a>)</li>
+<li>Todo List</li>
+<li><a href="https://github.com/douglasdl/Ignite-React-Native-GoFinance">GO Finance</a>)</li>
 
 ## Chapter I - Fundamentos React Native
 
