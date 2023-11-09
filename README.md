@@ -1,5 +1,8 @@
 # Ignite-React-Native-2021
 
+- [My Skills]()
+- 
+
 ## Chapter I - Fundamentos React Native
 
 ### Configurando o Ambiente
@@ -48,6 +51,31 @@
 
 
 ## Chapter II - Expo e Styled Components
+
+### Ambiente Expo
+- Boas Vindas
+- O projeto que vamos codar
+- Introdução ao Expo
+- Projeto com Expo Managed x Bare Workflow
+- Adicionando manualmente o Typescript
+- Iniciando o nosso projeto com o Expo
+
+### Styled Components
+- Conhecendo o Styled Components
+- Criando Componentes com o Styled Components
+- Criando estilos globais
+- Utilizando Fontes Personalizadas
+- Densidade de Pixel
+- Utilizando proporções em medidas
+- Utilizando Ícones
+- Criação dos Cartões de Destaque
+- Acessando propriedades no Styled Components
+- Posicionando os cartões em destaque
+- Tipando e acessando propriedades no Styled Components
+- Cartões de Transações
+- Utilizando Listas
+- Deixando os cartões de transações dinâmicos
+- Finalizando a listagem de transações
 
 ### Formulários e Navegação
 
