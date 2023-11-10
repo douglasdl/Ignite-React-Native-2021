@@ -1,4 +1,4 @@
-# Ignite-React-Native-2021
+# Ignite - React Native 2021
 
 <li><a href="https://github.com/douglasdl/MySkills">My Skills</a>)</li>
 <li>Todo List</li>
@@ -93,7 +93,60 @@
 
 ### Consumindo API
 
+#### 1. Criação das Interfaces
+- Apresentação do módulo
+- App que vamos codar
+- Criação do projeto e dica ninja
+- Tema Global da Aplicação
+- Criação do Header da Home
+- Criação do Card Car
+- Interface de Detalhes dos carros
+- Componente de Slider
+- Continuando a interface de Detalhes
+- Componente de Acessórios
+- Componente de Botão
+- Interface de Agendamento
+- Componente de Calendário
+- Interface de Detalhes do Agendamento
+- Heurísticas de Nielsen e UX
+- Interface de Agendamento Concluído
+- Navegação
+- Implementando a Navegação
+
+#### 2. Consumindo API
+- Introdução a API
+- Utilizando o JsonServer
+- Listando carros da API
+- Passando dados entre telas
+- Exibindo Icones Dinamicamente
+- Intervalos no Calendário
+- Finalizando o Calendário
+- Enviando Agendamento para API
+- Menu Flutuante
+- Listando Agendamentos do Usuário
+- Exibindo Carros Agendados
+- Reaproveitando o Componente Car
+- Usabilidade no Botão
+- Finalizando o botão
+
 ### Animações
+- Introdução
+- Iniciando o Slide de Imagens
+- Obtendo a imagem em foco
+- Instalação Reanimated
+- React Native Reanimated
+- Primeira Animação
+- Transições
+- Splash Screen
+- Animando a Splash
+- Worklet Animation
+- Animando o Scroll
+- Melhorando o Scroll
+- Gestos do Usuário
+- Previnir voltar a Splash
+- Lottie
+- A linha de chegada
+- Conclusão
 
 ### Desafio: GitHub Explorer
 
